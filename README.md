@@ -1,4 +1,4 @@
-# 🔥 Fairly Odd Burn Reward
+# 🔥 Fairly Odd Fellas NFT Burn Reward
 
 A minimal onchain experiment for the **Fairly Odd Fellas Collection** on Base.  
 Burn your NFT and instantly receive **0.0007 ETH** as a reward.  
